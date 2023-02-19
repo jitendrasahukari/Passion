@@ -1,3 +1,7 @@
 Hi, This is Jitendra
 Hello Joshna
+<<<<<<< HEAD
 Hello Anu
+=======
+I love u Madhu
+>>>>>>> ccd639f73ad2e9e7de78f23315a94fc5f70857f3
